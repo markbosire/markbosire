@@ -27,5 +27,7 @@ A passionate DevOps Engineer and a Google Certified Associate Cloud Engineer fro
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+
 
 I'm committed to building resilient infrastructure and enabling seamless software deployment for a smoother, faster development lifecycle. Looking forward to connecting and collaborating!
