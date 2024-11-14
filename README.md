@@ -11,7 +11,7 @@ A passionate DevOps Engineer and a Google Certified Associate Cloud Engineer fro
 - ⚡ Fun fact **I love space exploration**
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/markbosire/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mark-bosire-54915b2b2/)
 
 
 ## Languages and Tools:
