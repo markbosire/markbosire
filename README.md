@@ -7,7 +7,7 @@
 A passionate DevOps Engineer and a Google Certified Associate Cloud Engineer from Kenya, focused on optimizing deployments, automating infrastructure, and fostering continuous integration and delivery pipelines.
 
 - 💬 Ask me about **CI/CD, Docker, and Kubernetes, GCP**
-- 📫 How to reach me **markbosirekenyariri@gmail.com**
+- 📫 How to reach me **markbosirekenyariri@outlook.com**
 - ⚡ Fun fact **I love space exploration**
 
 ## Connect with me:
