@@ -32,3 +32,7 @@ A passionate DevOps Engineer and a Google Certified Associate Cloud Engineer fro
 
 
 I'm committed to building resilient infrastructure and enabling seamless software deployment for a smoother, faster development lifecycle. Looking forward to connecting and collaborating!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markbosire&show_icons=true&theme=codeSTACKr)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markbosire&theme=dark)](https://git.io/streak-stats)  
