@@ -4,7 +4,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/markbosire?color=f5d03a&label=Stars&logo=github&style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=markbosire&color=blueviolet&style=for-the-badge)
 
-A Software Developer from Kenya  building scalable web applications and cloud-native solutions. I specialize in Node.js, TypeScript, Vue, React, and Go, with a track record of building high-load, resilient systems that are scalable, secure, and backed by great UI/UX.
+A Software Developer and Cloud Engineer from Kenya, building scalable web applications and cloud-native solutions. I specialize in Node.js, TypeScript, Vue, React, and Go ; deploying and orchestrating containerized workloads on Kubernetes, designing infrastructure as code with Terraform, and architecting cloud-native systems on GCP. I am learning how to build high-load, resilient systems that are scalable, secure, and backed by great UI/UX.
 
 - 🔭 I'm currently building and maintaining a Vue 3 + Bun/Elysia + PostgreSQL project
 - 💬 Ask me about **Full Stack Development, Microservices, Event-Driven Architecture, CI/CD, Docker, and Kubernetes**
