@@ -6,7 +6,7 @@
 
 A Software Developer from Kenya  building scalable web applications and cloud-native solutions. I specialize in Node.js, TypeScript, Vue, React, and Go, with a track record of building high-load, resilient systems that are scalable, secure, and backed by great UI/UX.
 
-- 🔭 I'm currently building **thecouponcabana.com** — a Vue 3 + Bun/Elysia + PostgreSQL platform with typo-tolerant full-text search
+- 🔭 I'm currently building and maintaining a Vue 3 + Bun/Elysia + PostgreSQL project
 - 💬 Ask me about **Full Stack Development, Microservices, Event-Driven Architecture, CI/CD, Docker, and Kubernetes**
 - ☁️ Cloud certified: **GCP Associate Cloud Engineer, AWS Certified Cloud Practitioner, Kubernetes & Cloud Native Associate (KCNA)**
 - 📫 How to reach me: **markbosirekenyariri@outlook.com**
