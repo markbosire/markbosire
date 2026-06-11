@@ -1,8 +1,5 @@
 # Hi 👋, I'm Mark
 
-![GitHub followers](https://img.shields.io/github/followers/markbosire?color=236ad3&label=Followers&logo=GitHub&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/markbosire?color=f5d03a&label=Stars&logo=github&style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=markbosire&color=blueviolet&style=for-the-badge)
 
 A Software Developer and Cloud Engineer from Kenya, building scalable web applications and cloud-native solutions. I specialize in Node.js, TypeScript, Vue, React, and Go ; deploying and orchestrating containerized workloads on Kubernetes, designing infrastructure as code with Terraform, and architecting cloud-native systems on GCP. I am learning how to build high-load, resilient systems that are scalable, secure, and backed by great UI/UX.
 
@@ -59,5 +56,4 @@ A Software Developer and Cloud Engineer from Kenya, building scalable web applic
 
 I'm passionate about clean architecture, event-driven systems, and shipping resilient, well-tested software. Looking forward to connecting and collaborating!
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markbosire&show_icons=true&theme=codeSTACKr)
-[![GitHub Streak](https://streak-stats.demolab.com?user=markbosire&theme=dark)](https://git.io/streak-stats)
+
