@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mark
 
 
-A Software Developer and Cloud Engineer from Kenya, building scalable web applications and cloud-native solutions. I specialize in Node.js, TypeScript, Vue, React, and Go ; deploying and orchestrating containerized workloads on Kubernetes, designing infrastructure as code with Terraform, and architecting cloud-native systems on GCP. I am learning how to build high-load, resilient systems that are scalable, secure, and backed by great UI/UX.
+A Software Developer and Cloud/DevOps Engineer from Kenya, building scalable web applications and cloud-native solutions. I specialize in Node.js, TypeScript, Vue, React, and Go ; deploying and orchestrating containerized workloads on Kubernetes, designing infrastructure as code with Terraform, and architecting cloud-native systems on GCP. I am learning how to build high-load, resilient systems that are scalable, secure, and backed by great UI/UX.
 
 - 🔭 I'm currently building and maintaining a Vue 3 + Bun/Elysia + PostgreSQL project
 - 💬 Ask me about **Full Stack Development, Microservices, Event-Driven Architecture, CI/CD, Docker, and Kubernetes**
